@@ -1,0 +1,35 @@
+.active{
+    font-weight: bolder;
+}
+
+.topnav a:hover {
+    border-bottom: 3px solid #2F2FA2;
+    color: white;
+}
+
+/* F64C72 */
+.custom-nav{
+    background-color: #F64C72;
+    color: white;
+}
+
+.custom-container{
+    border-bottom: 3px solid white;
+}
+
+.custom-navbar{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.logout-nav-li :hover{
+    border: 3px solid #2F2FA2;
+}
+
